@@ -169,8 +169,8 @@ function renderCocktail(drinkInfo) {
 
 
 **Kevin Ko** 
-- [LinkedIn](#)
-- [Link to Github]()
+- [LinkedIn](https://www.linkedin.com/in/kevin-ko-ab7a98196/)
+- [Link to Github](https://github.com/kokevin678)
 
 **Chris Melby**
 - [LinkedIn](https://www.linkedin.com/in/chris-melby-71106b126/)
